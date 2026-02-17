@@ -10,6 +10,7 @@ const USUARIOS_PERMITIDOS = [
   { user: "admin", pass: "1234" },
   { user: "sensei", pass: "react77" },
   { user: "lara", pass: "0000" },
+  { user: "heidy", pass: "0000" },
 ];
 
 export const App = () => {
